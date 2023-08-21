@@ -1,8 +1,8 @@
 
 :root{
-    --cor-de-fundo: hsl(239, 87%, 47%);
+    --cor-de-fundo: hwb(192 27% 36%);
     --branco-principal: hsl(0, 0%, 100%);
-    --fundo-degrade: hsl(253, 96%, 41%),#210ec5;
+    --fundo-degrade: hsl(192, 34%, 44%),#7fc7e4;
 }
 
 header{
